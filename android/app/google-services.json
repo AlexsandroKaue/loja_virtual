@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584748010522",
+    "project_id": "loja-flutter-91708",
+    "storage_bucket": "loja-flutter-91708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584748010522:android:6dfc54ac0169ac11b515a3",
+        "android_client_info": {
+          "package_name": "br.com.galdino.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584748010522-tm85cmfhri822qthahqktea21e647s94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUM7rrz0ruyaFzdDYr2A4yuVyja37UjrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584748010522-tm85cmfhri822qthahqktea21e647s94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
